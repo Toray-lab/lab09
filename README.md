@@ -7,25 +7,25 @@ pushd .
 source scripts/activate
 ```
 
-Клонируем предыдущую работу (lab07) как основу для lab08
+Клонируем предыдущую работу (lab07) как основу для lab09
 ```bash
-$ git clone https://github.com/${GITHUB_USERNAME}/lab07 lab08
-Cloning into 'lab08'...
+$ git clone https://github.com/${GITHUB_USERNAME}/lab07 lab09
+Cloning into 'lab09'...
 remote: Enumerating objects: 312, done.
 remote: Counting objects: 100% (312/312), done.
 remote: Compressing objects: 100% (147/147), done.
 remote: Total 312 (delta 129), reused 308 (delta 128), pack-reused 0 (from 0)
 Receiving objects: 100% (312/312), 1.88 MiB | 1.80 MiB/s, done.
 Resolving deltas: 100% (129/129), done.
-$ cd lab08
+$ cd lab09
 $ git submodule update --init
 fatal: No url found for submodule path 'projects/lab07' in .gitmodules
 ```
 
-Меняем удалённый репозиторий на новый lab08
+Меняем удалённый репозиторий на новый lab09
 ```bash
 $ git remote remove origin
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab08
+$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab09
 ```
 
 Создаём Dockerfile поэтапно
@@ -207,7 +207,7 @@ text3
 
 Обновление README
 ```bash
-sed -i 's/lab07/lab08/g' README.md
+sed -i 's/lab07/lab09/g' README.md
 ```
 Настройка Travis CI
 ```bash
@@ -253,6 +253,6 @@ $ travis login --auto
         from /usr/local/bin/travis:25:in `load'
         from /usr/local/bin/travis:25:in `<main>'
 $ travis enable
-Detected repository as Toray-lab/lab08, is this correct? |yes| yes
-Toray-lab/lab08: enabled :)
+Detected repository as Toray-lab/lab09, is this correct? |yes| yes
+Toray-lab/lab09: enabled :)
 ```
