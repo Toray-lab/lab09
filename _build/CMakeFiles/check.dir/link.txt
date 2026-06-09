@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wno-maybe-uninitialized -Wl,--dependency-file=CMakeFiles/check.dir/link.d CMakeFiles/check.dir/tests/test1.cpp.o -o check  libprint.a third-party/gtest/googlemock/gtest/libgtest_main.a third-party/gtest/googlemock/gtest/libgtest.a

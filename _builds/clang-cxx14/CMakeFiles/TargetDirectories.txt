@@ -1,5 +1,0 @@
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/clang-cxx14/CMakeFiles/print.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/clang-cxx14/CMakeFiles/package.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/clang-cxx14/CMakeFiles/package_source.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/clang-cxx14/CMakeFiles/edit_cache.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/clang-cxx14/CMakeFiles/rebuild_cache.dir

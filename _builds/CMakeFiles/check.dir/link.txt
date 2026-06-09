@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/check.dir/link.d CMakeFiles/check.dir/tests/test1.cpp.o -o check  libprint.a /home/vlad/projects/hunter/_Base/xxxxxxx/d1e9b55/dde7d8a/Install/lib/libgtest_maind.a /home/vlad/projects/hunter/_Base/xxxxxxx/d1e9b55/dde7d8a/Install/lib/libgtestd.a

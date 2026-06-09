@@ -1,6 +1,0 @@
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/print.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/check.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/package.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/package_source.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/edit_cache.dir
-/home/vlad/Toray-lab/workspace/projects/lab07/_builds/CMakeFiles/rebuild_cache.dir
