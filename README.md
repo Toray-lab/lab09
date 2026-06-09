@@ -1,4 +1,5 @@
-# Отчёт к лабораторной работе №8
+![Build Status](https://app.travis-ci.com/Toray-lab/lab09.svg?token=Lebv9VyVWR2CUJgbvRjy)
+# Отчёт к лабораторной работе №9
 Подготовка окружения
 ```bash
 export GITHUB_USERNAME=Toray-lab
